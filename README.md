@@ -1,37 +1,21 @@
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#                                                                                                     #
-#            ██╗   ██╗██╗██████╗ ███████╗██████╗  ███████╗   ██████╗██╗  ██╗ █████╗ ██████╗           #
-#            ██║   ██║██║██╔══██╗██╔════╝██╔══██╗ ╚════██║  ██╔════╝██║  ██║██╔══██╗██╔══██╗          #
-#            ╚██╗ ██╔╝██║██████╔╝█████╗  ██████╔╝   ███╔═╝  ╚█████╗ ███████║██║  ██║██████╔╝          #
-#             ╚████╔╝ ██║██╔═══╝ ██╔══╝  ██╔══██╗ ██╔══╝     ╚═══██╗██╔══██║██║  ██║██╔═══╝           #
-#              ╚██╔╝  ██║██║     ███████╗██║  ██║ ███████╗  ██████╔╝██║  ██║╚█████╔╝██║               #
-#               ╚═╝   ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝ ╚══════╝  ╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝               #
-#                                                                                                     #
-#                           DISCORD: https://discord.gg/ViperZ                                        #
-#                           OWNERS: Winhn & Owni                                                      #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+## ------------------------------------ HOW TO START THE BOT ------------------------------------
 
-Carefully read the following steps to ensure optimal functionality of the bot.
+1. Complete the "**config.json**" with the information we request.
+
+2. Replace the assigned elements in "**index.js**" to enable the bot to perform the designated function.
+**Example: Replace with the CHANNEL ID you want to assign**
+
+3. Open the "**start.bat**". If you open the "**start.bat**" but it closes abruptly, it indicates that there is an error in what you have added.
+
+## ---------------------------------------------- **READY** ----------------------------------------------
 
 
-# ---------- HOW TO START THE BOT ---------- #
+## ------------------------------------ TERMS AND CONDITIONS ----------------------------------- #
 
-1. Complete the 'config.json' with the information we request.
+**1. If you encounter any type of issue with the bot, feel free to open a ticket at https://discord.gg/ViperZ or contact us via Gmail at info.viperz@gmail.com, and we will assist you as soon as possible.**
 
-2. Replace the assigned elements in 'index.js' to enable the bot to perform the designated function.
-# Example: // Replace with the CHANNEL ID you want to assign \\ or // Replace with the ROLE ID you want to assign \\
+**2. If we encounter a case where an individual is using our product as if it were their own creation, we will have absolute permission to file a complaint against the person who has done so. We also reserve the absolute right to revoke access to our store, regardless of any active subscriptions or pending purchases. The product will not be delivered, and the subscription fee will not be refunded.**
 
-3. Open the "start.bat". If you open the "start.bat" but it closes abruptly, it indicates that there is an error in what you have added.
+**3. If you have been hacked due to not downloading the official files, we are not responsible. The official files are created from scratch by the Viperz programming team. After creation, the responsible parties review and verify all files before they are published.**
 
-# READY!
-
-
-# ---------- TERMS AND CONDITIONS ---------- #
-
-# IF YOU ENCOUNTER ANY TYPE OF ISSUE WITH THE BOT, FEEL FREE TO OPEN A TICKET AT https://discord.gg/ViperZ OR CONTACT US VIA GMAIL info.viperz@gmail.com AND WE WILL ASSIST YOU AS SOON AS POSSIBLE.
-
-# IF WE ENCOUNTER A CASE WHERE AN INDIVIDUAL IS USING OUR PRODUCT AS IF IT WERE THEIR OWN CREATION, WE WILL HAVE ABSOLUTE PERMISSION TO FILE A COMPLAINT AGAINST THE PERSON WHO HAS DONE SO. WE ALSO RESERVE THE ABSOLUTE RIGHT TO REVOKE ACCESS TO OUR STORE, REGARDLESS OF ANY ACTIVE SUBSCRIPTIONS OR PENDING PURCHASES. THE PRODUCT WILL NOT BE DELIVERED, AND THE SUBSCRIPTION FEE WILL NOT BE REFUNDED.
-
-# IF YOU HAVE BEEN HACKED DUE TO NOT DOWNLOADING THE OFFICIAL FILES, WE ARE NOT RESPONSIBLE. THE OFFICIAL FILES ARE CREATED FROM SCRATCH BY THE VIPERZ PROGRAMMING TEAM. AFTER CREATION, THE RESPONSIBLE PARTIES REVIEW AND VERIFY ALL FILES BEFORE THEY ARE PUBLISHED.
-
-# REMINDER: IF YOU MAKE A SALE OF THE CURRENTLY FREE PRODUCT TO PROFIT ECONOMICALLY WITHOUT THE CONSENT OF THE CREATOR, IT IS ILLEGAL AND MAY RESULT IN A FINE BETWEEN $4,000 AND $20,000, DEPENDING ON THE SEVERITY.
+**4. Reminder: If you make a sale of the currently free product to profit economically without the consent of the creator, it is illegal and may result in a fine between $4,000 and $20,000, depending on the severity.**
