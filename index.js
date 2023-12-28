@@ -67,7 +67,7 @@ client.on('guildMemberRemove', async member => {
     console.log(`[+] ${member.user.tag} left the server.`)
 });
 
-// Auto Rol \\
+// AutoRol \\
 client.on('guildMemberAdd', member => {
     const roleID = 'ROLE ID'; // Replace with the ROLE ID you want to assign \\
   
