@@ -1,4 +1,4 @@
-## HOW TO START THE BOT 
+## HOW TO START THE BOT:
 
 1. Complete the "**config.json**" with the information we request.
 
@@ -10,7 +10,7 @@
 ## **READY!**
 
 
-## TERMS AND CONDITIONS #
+## TERMS AND CONDITIONS:
 
 **1. If you encounter any type of issue with the bot, feel free to open a ticket at https://discord.gg/ViperZ or contact us via Gmail at info.viperz@gmail.com, and we will assist you as soon as possible.**
 
