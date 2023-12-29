@@ -50,7 +50,7 @@ client.on("messageCreate", async message => {
 
 // Welcome \\
 client.on('guildMemberAdd', async member => {
-    const welcomeChannelId = 'CHANNEL ID'; // Replace with the CHANNEL ID you want to assign \\
+    const welcomeChannelId = config.welcome_channel_id; // Replace with the CHANNEL ID you want to assign \\
     const serverName = member.guild.name;
     const welcomeMessage = `Welcome to **${serverName}** ${member.user.toString()}`;
     console.log(`[+] ${member.user.tag} joined the server.`)
@@ -63,13 +63,13 @@ client.on('guildMemberAdd', async member => {
 
 // Goodbye \\
 client.on('guildMemberRemove', async member => {
-    client.channels.resolve("CHANNEL ID").send("**The user <@" + member.user.id +"> left the server.**"); // Replace with the CHANNEL ID you want to assign \\
+    client.channels.resolve(config.bye_channel_id).send("**The user <@" + member.user.id +"> left the server.**"); // Replace with the CHANNEL ID you want to assign \\
     console.log(`[+] ${member.user.tag} left the server.`)
 });
 
 // AutoRol \\
 client.on('guildMemberAdd', member => {
-    const roleID = 'ROLE ID'; // Replace with the ROLE ID you want to assign \\
+    const roleID = config.default_role; // Replace with the ROLE ID you want to assign \\
   
     const role = member.guild.roles.cache.get(roleID);
   

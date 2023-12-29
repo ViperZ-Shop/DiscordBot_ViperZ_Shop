@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN BOT",
+    "prefix": "!",
+    "staff": "STAFF ROLE ID",
+    "welcome_channel_id": "WELCOME CHANNEL ID",
+    "bye_channel_id": "BYE CHANNEL ID",
+    "default_role": "RLE ID"
+}
